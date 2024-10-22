@@ -1,0 +1,10 @@
+python>=3.6
+jupyter
+tensorflow>=2.0
+torch
+numpy
+opencv-python
+matplotlib
+scikit-learn
+nibabel
+scipy
