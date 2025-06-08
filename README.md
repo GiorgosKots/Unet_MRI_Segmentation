@@ -20,33 +20,6 @@ To run the notebook, you need the following dependencies:
 - Matplotlib
 - Scikit-learn
 
-You can install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-- **Clone the Repository**:
-  
-  ```bash
-  git clone https://github.com/GiorgosKots/Unet_MRI_Segmentation.git
-  cd Unet_MRI_Segmentation
-  ```
-
-- **Open the Jupyter Notebook**:
-  
-  Launch Jupyter Notebook and open the [`Unet (5 Methods).ipynb`](https://github.com/GiorgosKots/Unet_MRI_Segmentation/blob/main/Unet%20(5%20Methods).ipynb) file:
-
-  ```bash
-  jupyter notebook
-  ```
-
-- **Run the Notebook**:
-  
-  Follow the cells in the notebook to train and evaluate the U-Net model on MRI data.
-
 ## Dataset
 
 The notebook requires an MRI dataset for training and evaluation. The tests have been conducted using prostate cancer data from the Medical Segmentation Decathlon dataset. You can use publicly available datasets such as the **BraTS** dataset or any other MRI dataset suitable for segmentation tasks.
